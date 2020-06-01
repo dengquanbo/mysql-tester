@@ -8,6 +8,7 @@ import com.wuda.tester.mysql.generate.AlreadyStoppedException;
 import com.wuda.tester.mysql.generate.DataGenerator;
 import com.wuda.tester.mysql.generate.FullDataGenerator;
 import com.wuda.tester.mysql.statistic.DataGenerateStat;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
